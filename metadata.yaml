@@ -1,0 +1,38 @@
+_repo: The-Crimson-Patch_52509
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, C. M. (Charles Mark)
+    - Relyea, Charles M.
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+creator:
+  author:
+    agent_name: Seaman, Augusta Huiell
+    birthdate: 1879
+    deathdate: 1950
+    gutenberg_agent_id: '31568'
+    url: http://www.gutenberg.org/2009/agents/31568
+description: ''
+gutenberg_issued: '2016-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- United States -- Juvenile fiction'
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- !lcsh 'Hotels -- Juvenile fiction'
+- !lcsh 'Spy stories'
+- GITenberg
+title: The Crimson Patch
+url: http://www.gutenberg.org/ebooks/52509
